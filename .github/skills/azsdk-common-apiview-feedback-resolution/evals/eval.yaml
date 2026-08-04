@@ -2,6 +2,8 @@ name: azsdk-common-apiview-feedback-resolution-eval
 description: Evaluation suite for the azsdk-common-apiview-feedback-resolution skill
 type: capability
 
+# Add random change for testing
+
 environment: azsdk-mcp-mock
 
 tags:
